@@ -1,6 +1,4 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# curso-alura-arquitetura-css
+Projeto feito para o curso de Arquitetura CSS para Alura
 
-Neste projeto estou estudando as melhores práticas para estruturar um projeto html/css
-
-Nomeação de classes para melhor entendimento do código e estrura de arquivos css para melhor entendimento do código e manutenção.
+Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
